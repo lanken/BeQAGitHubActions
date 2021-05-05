@@ -27,11 +27,11 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    - name: Run the component tests
-      run: npm run test
-
     - name: Build the application
       run: npm run build
+
+    - name: Run the component tests
+      run: npm run test
 
     - name: Deploy to GitHub Pages
       run: |
