@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <img src={process.env.PUBLIC_URL + '/images/logo.png'} className="App-logo" alt="logo" />
         <p className="App-text">
-          BE 3QA - БУДЬ QA БЕЗ МЕЖ
+          BE QA - БУДЬ QA БЕЗ МЕЖ
         </p>
       </header>
     </div>
