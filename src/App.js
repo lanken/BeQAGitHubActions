@@ -8,7 +8,7 @@ function App() {
         <p className="App-text">
           BE QA - БУДЬ QA БЕЗ МЕЖ
         </p>
-      </header>
+      </head
     </div>
   );
 }
