@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/BeQAGitHubActions/static/css/main.2d9d1fd2.chunk.css",
-    "main.js": "/BeQAGitHubActions/static/js/main.b29444b2.chunk.js",
-    "main.js.map": "/BeQAGitHubActions/static/js/main.b29444b2.chunk.js.map",
-    "runtime-main.js": "/BeQAGitHubActions/static/js/runtime-main.b066e1b3.js",
-    "runtime-main.js.map": "/BeQAGitHubActions/static/js/runtime-main.b066e1b3.js.map",
-    "static/js/2.f1a4d695.chunk.js": "/BeQAGitHubActions/static/js/2.f1a4d695.chunk.js",
-    "static/js/2.f1a4d695.chunk.js.map": "/BeQAGitHubActions/static/js/2.f1a4d695.chunk.js.map",
+    "main.js": "/BeQAGitHubActions/static/js/main.2b4b8ba4.chunk.js",
+    "main.js.map": "/BeQAGitHubActions/static/js/main.2b4b8ba4.chunk.js.map",
+    "runtime-main.js": "/BeQAGitHubActions/static/js/runtime-main.a4c92b11.js",
+    "runtime-main.js.map": "/BeQAGitHubActions/static/js/runtime-main.a4c92b11.js.map",
+    "static/js/2.15b079c2.chunk.js": "/BeQAGitHubActions/static/js/2.15b079c2.chunk.js",
+    "static/js/2.15b079c2.chunk.js.map": "/BeQAGitHubActions/static/js/2.15b079c2.chunk.js.map",
     "index.html": "/BeQAGitHubActions/index.html",
     "static/css/main.2d9d1fd2.chunk.css.map": "/BeQAGitHubActions/static/css/main.2d9d1fd2.chunk.css.map",
-    "static/js/2.f1a4d695.chunk.js.LICENSE.txt": "/BeQAGitHubActions/static/js/2.f1a4d695.chunk.js.LICENSE.txt"
+    "static/js/2.15b079c2.chunk.js.LICENSE.txt": "/BeQAGitHubActions/static/js/2.15b079c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b066e1b3.js",
-    "static/js/2.f1a4d695.chunk.js",
+    "static/js/runtime-main.a4c92b11.js",
+    "static/js/2.15b079c2.chunk.js",
     "static/css/main.2d9d1fd2.chunk.css",
-    "static/js/main.b29444b2.chunk.js"
+    "static/js/main.2b4b8ba4.chunk.js"
   ]
 }
